@@ -45,7 +45,7 @@ class OverlayApp:
 
     def __init__(self, root: tk.Tk):
         self.root = root
-        self.api_key = "aJlQMPhthoKDdS2QHYaDiJJxwMFPE05A"
+        self.api_key = "Enter Your Mistral Api key"
         self._drag_x = 0
         self._drag_y = 0
         self._analyzing = False
